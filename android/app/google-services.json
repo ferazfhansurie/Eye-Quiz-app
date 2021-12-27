@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654069491852",
+    "project_id": "quiz-app-e053d",
+    "storage_bucket": "quiz-app-e053d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654069491852:android:9ac4d48800165c224db3a9",
+        "android_client_info": {
+          "package_name": "com.firaz.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654069491852-kgprdcehq0676s2o62e6ubalv9h9013h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATD_DpqVcWchgRZfg0jvu3olbkSa5rSe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654069491852-kgprdcehq0676s2o62e6ubalv9h9013h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
